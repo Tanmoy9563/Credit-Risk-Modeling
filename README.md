@@ -119,6 +119,7 @@ ROC-AUC: 0.7089
 Confusion Matrix:
 
 [[29 17]
+ 
  [16 43]]
 
 ROC-AUC ≈ 0.71, indicating moderate classification performance and better discrimination ability than random guessing (0.5).
